@@ -1,5 +1,8 @@
 _repo: Lead-poisoning-and-lead-absorption-b-The-symptoms-pathology-and-prevention-with-special-refer__72301
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72301-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Goadby, Kenneth W.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '56642'
     url: http://www.gutenberg.org/2009/agents/56642
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72301#Lead-poisoning-and-lead-absorption-b-The-symptoms-pathology-and-prevention-with-special-refer_
 gutenberg_issued: '2023-12-03'
 identifiers:
   gutenberg: '72301'
